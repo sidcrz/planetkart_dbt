@@ -81,7 +81,7 @@ dbt test
 dbt snapshot --select customers_snapshot
 
 
-<img width="789" height="269" alt="Screenshot 2025-07-21 at 11 44 02 PM" src="https://github.com/user-attachments/assets/61604aaa-6733-4301-a1ff-1d511f182323" />
+![Uploading Screenshot 2025-07-22 at 6.59.22 AM.png…]()
 
 3. Design Decisions & Reasoning
 
